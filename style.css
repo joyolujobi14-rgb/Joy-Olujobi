@@ -13,13 +13,13 @@ h1, h2 {
   }
 .centre-image img {
   width: 60%;
-  max-width: 400px;
+  max-width: 300px;
   border-radius: 10px;
   }
 /* Other Images*/
 .small-img  {
   width: 40%;
-  max-width: 300px;
+  max-width: 200px;
   margin: 10px;
   border-radius: 8px;
   }
